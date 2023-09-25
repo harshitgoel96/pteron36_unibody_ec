@@ -428,7 +428,7 @@
       )
     )
   )
-  (model "../tako.3dshapes/Topre_OEM_1U.step"
+  (model "../pteron_unibody_ec.3dshapes/Topre_OEM_1U.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

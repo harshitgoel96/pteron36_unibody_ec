@@ -61,4 +61,9 @@
   (pad "22" thru_hole circle (at -8.89 -7.62) (size 1.7526 1.7526) (drill 1.0922) (layers "*.Cu" "*.SilkS" "*.Mask") (tstamp 395e3ab5-80ac-46b3-a58b-0e918f8ea7ff))
   (pad "23" thru_hole circle (at -11.43 -7.62) (size 1.7526 1.7526) (drill 1.0922) (layers "*.Cu" "*.SilkS" "*.Mask") (tstamp a9e26312-5a83-4223-8f80-5e50893375ba))
   (pad "24" thru_hole circle (at -13.97 -7.62) (size 1.7526 1.7526) (drill 1.0922) (layers "*.Cu" "*.SilkS" "*.Mask") (tstamp 37b60c96-bbb2-4cd3-a642-bf2a989340ce))
+  (model "${KIPRJMOD}/pteron_unibody_ec.3dshapes/ARDUINO PRO MICRO.stp"
+    (offset (xyz -13.95 -7.5 2))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
 )
